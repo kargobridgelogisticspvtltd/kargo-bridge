@@ -343,8 +343,8 @@ export default function Index() {
             <ContactRow
               icon={<Mail size={20} />}
               label="Email"
-              value="imp.chn@kargobridge.com"
-              href="mailto:imp.chn@kargobridge.com"
+              value="santhiya@kargobridge.com"
+              href="mailto:santhiya@kargobridge.com"
             />
             <ContactRow
               icon={<Phone size={20} />}

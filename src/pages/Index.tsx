@@ -359,11 +359,11 @@ export default function Index() {
               value="24/7 Customer Assistance"
             />
           </div>
-          <div className="mt-10 flex items-center justify-center gap-4 border-t border-border pt-8">
+          {/* <div className="mt-10 flex items-center justify-center gap-4 border-t border-border pt-8">
             <SocialIcon href="#"><Linkedin size={18} /></SocialIcon>
             <SocialIcon href="#"><Facebook size={18} /></SocialIcon>
             <SocialIcon href="#"><Instagram size={18} /></SocialIcon>
-          </div>
+          </div> */}
         </div>
       </section>
 
@@ -398,7 +398,7 @@ export default function Index() {
               ))}
             </ul>
           </div>
-          <div>
+          {/* <div>
             <h4 className="mb-4 text-sm font-semibold uppercase tracking-wider">
               Contact
             </h4>
@@ -407,7 +407,7 @@ export default function Index() {
               <li>9080054221</li>
               <li>Tambaram – 600045, India</li>
             </ul>
-          </div>
+          </div> */}
         </div>
         <div className="border-t border-white/10">
           <div className="mx-auto max-w-7xl px-6 py-6 text-center text-xs text-footer-foreground/60">
